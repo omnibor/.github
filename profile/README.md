@@ -5,6 +5,11 @@ __OmniBOR is a draft standard for communicating a cryptographic record of build 
 This organization hosts the specification and tools for producing and consuming OmniBOR Artifact Input Manifests.
 OmniBOR is under active development. More information can be found on the [OmniBOR website][site].
 
+## Get Involved
+
+📆 [__Join__ our meetings](https://omnibor.io/community/#community-meetings) &middot; 📹 [__View__ our meeting recordings](https://www.youtube.com/playlist?list=PL8Qx0AngZdU2ALwACVLQdGHHTdbTx-0x-) &middot; 🗨️ [__Discuss__ the specification](https://github.com/orgs/omnibor/discussions) &middot; 💻 [__Contribute__ to our implementations](https://github.com/orgs/omnibor/repositories)
+<br><sub>Note: all participants in OmniBOR must abide by the project's [Code of Conduct][coc].</sub>
+
 ## Repositories
 
 | Repository | Purpose |
@@ -33,3 +38,4 @@ OmniBOR is under active development. More information can be found on the [OmniB
 [repo_binutils]: https://github.com/omnibor/binutils-omnibor
 [repo_llvm]: https://github.com/omnibor/llvm-omnibor
 [repo_jbor]: https://github.com/omnibor/jbor
+[coc]: https://omnibor.io/code-of-conduct/
